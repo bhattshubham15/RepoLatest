@@ -1,0 +1,8 @@
+addition(int a,int b)
+{
+Enter the number one;
+Enter the number two;
+add();
+}
+
+
