@@ -1,8 +1,12 @@
-addition(int a,int b)
+#include <stdio.h>
+int main()
 {
-Enter the number one;
-Enter the number two;
+int a;
+int b;
+printf("enter a");
+scanf(%d,a);
+printf("enter b");
+scanf(%d,b);
 add();
+return 0;
 }
-
-
